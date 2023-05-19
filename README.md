@@ -18,7 +18,7 @@ To reproduce the plots and analysis presented in the thesis, there are 2 options
 2. <b>Flat Python file:</b> Alternatively, you can run the flat Python file provided in the repository. This file contains the full code without the markdown text. It is recommended to refer to the notebook for clarity and understanding, but if you prefer running the code directly, the Python file is available for that purpose as well. Again, please ensure that you modify the file paths if necessary.
 
 # Data
-For this thesis, I utilized two open-source datasets: the RIVM air quality data and the KNMI weather data. These datasets serve as the foundation for training and evaluating the models. The RIVM air quality data provides information on PM<sub>2.5</sub>, while the KNMI weather data offers weather-related features that influence air quality.
+For this thesis, I utilized two open-source datasets: the RIVM air quality data and the KNMI weather data. These datasets serve as the foundation for training and evaluating the models. The RIVM air quality data provides information on PM<sub>2.5</sub> in and around Utrecht, while the KNMI weather data offers weather-related features that influence air quality.
 
 # Contributing
 As this repository is primarily dedicated to a master thesis project, contributions in the form of code changes or additional features are not expected. However, if you encounter any issues or have suggestions for improvements, please feel free to reach out to me using the contact information provided below.
